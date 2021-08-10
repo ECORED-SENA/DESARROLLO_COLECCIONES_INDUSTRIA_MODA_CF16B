@@ -1,8 +1,8 @@
 # **sena-base-2021 v4.1.0**
 
-## **Enlace GitHubPages**
+## **https://ecored-sena.github.io/DESARROLLO_COLECCIONES_INDUSTRIA_MODA_CF16B/**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/DESARROLLO_COLECCIONES_INDUSTRIA_MODA_CF16B/](https://ecored-sena.github.io/DESARROLLO_COLECCIONES_INDUSTRIA_MODA_CF16B/)
 
 #
 
