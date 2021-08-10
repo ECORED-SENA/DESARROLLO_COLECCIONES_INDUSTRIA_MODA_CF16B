@@ -74,8 +74,8 @@
                         .list__item__bulletNumber 
                             span 5
                     .list__txt 
-                        h5 Paso 5. dobladillo de bota
-                        p En la bota se dobla a 2,5 cm hacia el revés y alineando la costura tomándola hacia el posterior posicionando bajo el pie prensa tela de la recubridora. Se inicia a coser ayudándose con la guía dobladilladora para que vaya guiando, quedando pareja la costura, se realiza el empate de la costura de 2 cm o 3 cm máximo, se saca la pieza y se procede a revisar con parámetros de calidad. 
+                        h5 Paso 5. Dobladillo de bota
+                        p En la bota se dobla a 2,5 cm hacia el revés, alineando la costura, y tomándola hacia el posterior, posicionando bajo el pie prensa tela de la recubridora. Se inicia a coser ayudándose con la guía dobladilladora para que vaya guiando, quedando pareja la costura. Se realiza el empate de la costura de 2 cm o 3 cm máximo, se saca la pieza y se procede a revisar con parámetros de calidad. 
 
             .hr(data-aos="fade-down").my-3  
             .row.justify-content-center.align-items-center
@@ -85,8 +85,8 @@
                         .list__item__bulletNumber 
                             span 6
                     .list__txt 
-                        h5 Paso 6 Limpiar y revisar prenda
-                        p Las operaciones de terminado están en la revisión final de la prenda iniciando por el revés retirando los hilos sobrantes, se voltea revisando el posterior desde la parte superior hacia la inferior. Esta se voltea al derecho y se revisa de nuevo desde la parte superior y luego hasta las botas, quedando lista para doblado y empacado.                                                 
+                        h5 Paso 6. Limpiar y revisar prenda
+                        p Las operaciones de terminado están en la revisión final de la prenda iniciando por el revés, retirando los hilos sobrantes. Se voltea revisando el posterior desde la parte superior hacia la inferior. Esta se voltea al derecho y se revisa de nuevo desde la parte superior y luego hasta las botas, quedando lista para doblado y empacado.                                                 
                   
           .py-3.py-md-4(titulo="Operaciones requeridas para la elaboración de la muestra física del top.")
             .row.justify-content-center.align-items-center 

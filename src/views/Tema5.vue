@@ -130,14 +130,14 @@
                   .col-lg-2
                     img.img-a.img-t(src='@/assets/ilustraciones/img25.svg', alt='')          
             p.mt-5 Dar un piquete muy cerca de la última puntada del pespunte, recortar el margen y dar la vuelta.
-            .row.justify-content-center.align-items-center.mt-5
-              .col-lg-4
-                .BorTit #[b Figura 27] Rematar cantos
+            .row.justify-content-center.align-items-center.mt-2
+              .col-lg-6
+                .BorTit.mt-5 #[b Figura 27] Rematar cantos
                 figure.mt-3
                   img(src='@/assets/ilustraciones/img35.png', alt='')
                   figcaption.mt-2 Nota. Tomado de "De costuras y otras cosas" (2012).
-              .col-lg-4
-                .BorTit #[b Figura 28] Voltear cantos
+              .col-lg-6
+                .BorTit.mt-5 #[b Figura 28] Voltear cantos
                 figure.mt-3
                   img(src='@/assets/ilustraciones/img36.png', alt='')
                   figcaption.mt-2 Nota. Tomado de "De costuras y otras cosas" (2012). 
@@ -306,7 +306,7 @@
           .col-lg-10
             p #[b Pespunte de cierre:] doblar la pechera y pasar un pespunte horizontal (por el derecho) del ancho de la vista en el final del corte, uniendo todo a la vez. Así queda por el revés y por el derecho.
         
-          .col-lg-5
+          .col-lg-10
             .BorTit #[b Figura 43] Pespunte de cierre
             figure.mt-3
               img(src='@/assets/ilustraciones/img51.png', alt='')

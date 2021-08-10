@@ -44,7 +44,7 @@
             h3.text-regular Para definir mejor el textil inteligente, que se ha venido desarrollando en los últimos años, se puede decir que son aquellos que cambian su origen y alteran ciertos de sus atributos con ayuda de instrumentos electrónicos. Para poder llegar a los resultados que se quieren se tiene que trabajar en conjunto con la biotecnología, la nanotecnología o la microelectrónica.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 Pari, C. C. R, 2017.
+            .h5.mb-0 Pari, C. C. R., 2017.
 
 
 
