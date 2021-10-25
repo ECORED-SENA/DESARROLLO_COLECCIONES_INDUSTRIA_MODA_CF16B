@@ -10,7 +10,7 @@
     
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/azyolmxIJe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-down") Para la elaboración de prendas de vestir deportivas, las máquinas planas de confección deben estar dotadas con la capacidad de adaptación de mecanismos y funciones especializadas para el tipo de tejido, ya que esta línea de producción se caracteriza por el tejido de punto licrado y de gran elongación, requiriendo de maquinaria apta para su desarrollo entre las que encontramos plana, fileteadora, resortadora, flaximer y pegadoras de elásticos, así como guía y aditamentos que ayudan a la calidad y buen ajuste de estas.
 
